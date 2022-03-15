@@ -197,6 +197,13 @@
       </listitem>
       <listitem>
         <para>
+          <link xlink:href="https://github.com/mvisonneau/gitlab-ci-pipelines-exporter">prometheus-gitlab-ci-pipelines-exporter</link>,
+          a prometheus exporter for gitlab CI pipelines. Available as
+          <link xlink:href="options.html#opt-services.prometheus.exporters.gitlab-ci-pipelines-exporter">services.prometheus.exporters.gitlab-ci-pipelines</link>.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
           <link xlink:href="https://tetrd.app">tetrd</link>, share your
           internet connection from your device to your PC and vice versa
           through a USB cable. Available at

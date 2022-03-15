@@ -34,6 +34,7 @@ let
     "dovecot"
     "fastly"
     "fritzbox"
+    "gitlab-ci-pipelines"
     "influxdb"
     "json"
     "jitsi"
